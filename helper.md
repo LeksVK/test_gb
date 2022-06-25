@@ -11,9 +11,7 @@
 
 
 > [!NOTE]
-> Не весь маркдаун поддерживается в VScode
+> Не весь маркдаун поддерживается в VScode. 
 
-|This is   |a simple   |table header|
-|----------|-----------|------------|
-|table     |data       |here        |
-|it doesn't|actually   |have to line up nicely!|
+
+![picture](pict.jpg)
